@@ -1,0 +1,82 @@
+Revision:
+Excellent = 150 points
+For every mistake = -10
+
+Memorization:
+For every long verse = 75
+For every short verse = 30
+
+Lesson completion:
+Excellent = 1 heart
+good = 50 points
+bad = -1 heart
+
+Homework completion:
+Done & Excellent = 100 points
+Done & Good/incomplete = 50 points
+Not Done = - 10 points
+
+For weekly test:
+4/5 = spin a wheel
+less than 4 = 50 points
+
+For monthly test:
+15/20 = spin mystery wheel
+less than 15 = 200
+
+in the wheel:
+- 100 points
+redo
+mystery spin
++ 350 points
+gems spin
++100 points
+
+
+Mystery wheel:
++750 points
++350 points
+- 250 points
+diamond & gold
+redo
+
+Gems Spin
+emerald
+diamond
+sapphire
+topaz
+ruby
+coal
+redo
+opal
+gold
+silver
+iron
+bronze
+quartz
+rose quartz
+smokey quartz
+amethyst
+flint
+steel
+clear quartz
+rare geode
+
+shop:
+1 heart = 100 points
+Biryani (heals 1.5 hearts) = 50 points
+Gold = 150 points
+
+
+Yusuf's points:
+points: 15,200
+Hearts: 9
+Golds: 1
+Coal: 1
+Emerald: 1
+
+Gold = 400 pts
+Ruby = 235 pts
+Emerald = 150 pts
+Bronze = 60 pts
+Coal = 15 pts
